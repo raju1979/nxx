@@ -29,6 +29,13 @@
     "text-nx-e2e": {
       "tags": [],
       "implicitDependencies": ["text-nx"]
+    },
+    "myapp": {
+      "tags": []
+    },
+    "myapp-e2e": {
+      "tags": [],
+      "implicitDependencies": ["myapp"]
     }
   }
 }
